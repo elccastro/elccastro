@@ -1,6 +1,6 @@
 # Olá 👋
 
-### Sou o Eliel.
+### Sou o Eliel
 
 Paulista de 25 anos, graduado em Ciência da Computação e técnico em Manutenção e Suporte em Informática.
 
