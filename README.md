@@ -1,3 +1,7 @@
+Olá a todos 👋
+
+<hr>
+
 - 🤔 Acredito que uma nova tecnologia ou framework nunca é um empecilho e sim uma forma de encarar o trabalho com eficácia e consistência, por isso busco sempre acompanhar a evolução constante da área de TI.
 
 <a href="https://elielcastro.com.br" rel="nofollow"><img src="https://img.shields.io/badge/-elielcastro.com.br-blue??style=flat-square&amp;link=https://elielcastro.com.br" alt="Site Badge" data-canonical-src="https://img.shields.io/badge/Blog-/elielcastro-black" style="max-width:100%;"></a>
