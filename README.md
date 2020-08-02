@@ -4,7 +4,7 @@
 
 Paulista de 25 anos, graduado em Ciência da Computação e técnico em Manutenção e Suporte em Informática.
 
-Tenho como hobby a música 🎵, esportes ⚽️, eletrônica ⚡ e a leitura 📚.
+Tenho como hobby a música 🎸, esportes ⚽️, jogos retrôs 🕹, eletrônica ⚡ e a leitura 📚.
 
 
 - 🤔 Acredito que uma nova tecnologia ou framework nunca é um empecilho e sim uma forma de encarar o trabalho com eficácia e consistência, por isso busco sempre acompanhar a evolução constante da área de TI.
