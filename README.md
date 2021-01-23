@@ -2,7 +2,7 @@
 
 ### Sou o Eliel
 
-Paulista de 25 anos, graduado em Ciência da Computação e técnico em Manutenção e Suporte em Informática.
+Paulista de 25 anos, estudante de pós em Inteligência Artificial, graduado em Ciência da Computação e técnico em Manutenção e Suporte em Informática.
 
 Tenho como hobby a música 🎸, esportes ⚽️, jogos retrôs 🕹, a eletrônica ⚡ e a leitura 📚.
 
