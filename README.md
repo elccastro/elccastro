@@ -1,20 +1,51 @@
-# Hi there 👋
+# Hey there, I'm Eliel
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/elccastro/elccastro/master/pacman.svg?sanitize=true" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/elccastro/elccastro/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-### Sou o Eliel
+<div align="center">
+  <a href="https://github.com/elccastro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elccastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elccastro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+	
+<br/>
 
-Paulista de 25 anos, estudante de pós em Inteligência Artificial, graduado em Ciência da Computação e técnico em Manutenção e Suporte em Informática.
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Eliel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Eliel-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  <img align="center" alt="Eliel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Eliel-CPlusPlus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Eliel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">	   
+  <img align="center" alt="Eliel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Eliel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Eliel-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Eliel-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  <img align="center" alt="Eliel-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Eliel-Tensorflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg">
+  <img align="center" alt="Eliel-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Eliel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Eliel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Eliel-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Eliel-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Eliel-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Eliel-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+</div>
+  
+  ##
+ 
+<div align="center">
+  <a href="https://www.linkedin.com/in/elccastro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/elccastro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/elielccastro" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://facebook.com/elccastro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
 
-Tenho como hobby a música 🎸, esportes ⚽️, jogos retrôs 🕹, a eletrônica ⚡ e a leitura 📚.
+<br />
 
+🤔 I believe that a new technology or framework is never an obstacle, but a way to face the work with efficiency and consistency, that's why I always seeking to follow the constant evolution of the IT area.
 
-🤔 Acredito que uma nova tecnologia ou framework nunca é um empecilho e sim uma forma de encarar o trabalho com eficácia e consistência, por isso busco sempre acompanhar a evolução constante da área de TI.
+If you like my work, consider buying me a coffee or pizza ☺
 
-<a href="https://elielcastro.com.br" rel="nofollow"><img src="https://img.shields.io/badge/-elielcastro.com.br-blue??style=flat-square&amp;link=https://elielcastro.com.br" alt="Site Badge" data-canonical-src="https://img.shields.io/badge/Blog-/elielcastro-black" style="max-width:100%;"></a>
-<a href="https://twitter.com/elielccastro" rel="nofollow"><img src="https://camo.githubusercontent.com/a30e39c8fbeddc53d346cee897c043ce4033f459/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f66656c6970656669616c686f5f" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/elielccastro" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/elccastro" rel="nofollow"><img src="https://camo.githubusercontent.com/3de3a6348c0e6b6a913fbe25fec57b018080bef1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f66656c6970656669616c686f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/elccastro" style="max-width:100%;"></a>
-
-<a href="https://www.buymeacoffee.com/elccastro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/elccastro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
