@@ -42,3 +42,23 @@
 Show ❤️ by starring ⭐️ and forking repositories you find good and If you like my work, consider buying me a coffee or pizza ☺
 
 <a href="https://www.buymeacoffee.com/elccastro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+
+
+
+
+
+
+
+
+
+
+
+<br/><br/><br/>
+
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/elccastro/count.svg?"/>
+</div>
+###
+
+
