@@ -52,7 +52,9 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/elccastro/elccastro/output/snake.svg" alt="Snake animation" />
 
+###
 
 
 
