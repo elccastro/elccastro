@@ -64,7 +64,6 @@
 
 <div align="center">
   <p>🤔 I believe that a new technology or framework is never an obstacle, but a way to face the work with efficiency and consistency, that's why I always seeking to follow the constant evolution of the IT area.</p>
-<br/>
   <p>Show ❤️ by starring ⭐️ and forking repositories you find good and If you like my work, consider buying me a coffee or pizza ☺</p>
 </div>
 
