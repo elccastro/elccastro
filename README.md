@@ -61,14 +61,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/elccastro/elccastro/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
-<br/>
 
 <div align="center">
   🤔 I believe that a new technology or framework is never an obstacle, but a way to face the work with efficiency and consistency, that's why I always seeking to follow the constant evolution of the IT area.
 
   Show ❤️ by starring ⭐️ and forking repositories you find good and If you like my work, consider buying me a coffee or pizza ☺
 </div>
-<br />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/elccastro/count.svg?"  />
