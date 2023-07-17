@@ -52,9 +52,7 @@ Show ❤️ by starring ⭐️ and forking repositories you find good and If you
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/elccastro/count.svg?"  />
-</div>
+
 
 ###
 
@@ -68,6 +66,10 @@ Show ❤️ by starring ⭐️ and forking repositories you find good and If you
   <img src="https://raw.githubusercontent.com/elccastro/elccastro/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 <br/>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/elccastro/count.svg?"  />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elccastro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
