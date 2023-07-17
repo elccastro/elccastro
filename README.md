@@ -59,6 +59,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/elccastro/count.svg?"  />
 </div>
+<br/>
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Eliel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -80,6 +81,7 @@
   <img align="center" alt="Eliel-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Eliel-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
 </div>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elccastro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
